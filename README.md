@@ -1,5 +1,7 @@
 # Set
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LvChengbin/set.svg)](https://greenkeeper.io/)
+
 Polyfill of ES6 Set for old browsers. Tested on IE 9/10.
 
 ## Usage
